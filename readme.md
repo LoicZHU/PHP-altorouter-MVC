@@ -1,6 +1,6 @@
 # MVC et AltoRouter
 
-Site rapide :
+Site simple :
 - Architecture MVC
 - Menu
 - Affichage de personnages
